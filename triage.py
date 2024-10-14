@@ -3,7 +3,7 @@ import re
 import requests
 
 # Streamlit App Title
-st.title("Dental Triage Model using OpenAI API (without importing OpenAI)")
+st.title("AiDentify's AI-Powered Dental Triage Model")
 
 # Function to get or set the OpenAI API key
 def get_openai_api_key():
